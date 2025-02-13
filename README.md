@@ -1,3 +1,5 @@
+<h1>Hello from the codespace!</h1>
+
 # React Course
 
 The content is part of my React Course. If you enjoy the content and my teaching style, you can always enroll in the full course (link below)
